@@ -38,7 +38,7 @@
 
 		<h1>CodeIgniter versión: <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
-		<h2>TEST DESARROLLADOR JUNIOR PHP</h2>
+		<h2>TEST DESARROLLADOR PHP</h2>
 
 	</div>
 
